@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Media files
+*.mp4
+*.mp3
+*.wav
+
+# Output
+output/
+temp/
+
+# OS
+.DS_Store
+
+.venv/
+__pycache__/
+*.pyc
+*.mp4
+*.mp3
+*.wav
+output/
+temp/
+input.mp4
